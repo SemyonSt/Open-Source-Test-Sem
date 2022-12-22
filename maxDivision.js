@@ -1,3 +1,3 @@
-const divide = (a, b) => a / b - 1;
+const divide = (a, b) => a / b;
 
-console.log(divide(0, 1));
+console.log(divide(10, 5));
